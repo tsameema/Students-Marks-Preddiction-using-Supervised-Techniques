@@ -19,8 +19,10 @@ pip install pandas numpy matplotlib scikit-learn
 ## Usage
 
 1. Clone or download the repository to your local machine.
+   
+        https://github.com/tsameema/StudySmartScore
 
-2. Run the script `student_marks_prediction.py`.
+3. Run the script `student_marks_prediction.py`.
 
         python student_marks_prediction.py
 ## Methodology
